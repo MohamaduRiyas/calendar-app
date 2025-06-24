@@ -4,7 +4,7 @@ A feature-rich calendar application built with React and Tailwind CSS, designed 
 
 ## Live Demo
 
-**(Link to your live demo will go here once deployed)**
+**[https://mohamaduriyas.github.io/calendar-app/](https://mohamaduriyas.github.io/calendar-app/)**
 
 ## Key Features
 
